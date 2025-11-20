@@ -1,0 +1,8 @@
+{
+    "name": "Infos",
+    "short_name": "Infos",
+    "start_url": ".",
+    "display": "stanalone",
+    "backgroun_color": "#000000",
+    "orientation": "natural"
+}

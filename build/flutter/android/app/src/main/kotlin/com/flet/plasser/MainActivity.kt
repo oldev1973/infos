@@ -1,0 +1,6 @@
+package com.flet.plasser
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
